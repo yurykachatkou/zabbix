@@ -6,6 +6,7 @@ Region="Europe"
 City="Minsk"
 
 
+
 #installing mariadb
 sudo yum install mariadb mariadb-server -y
 #Mysql Initial configuration
